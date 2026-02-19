@@ -4,215 +4,648 @@
     "name": "Watercress and pork sandwich",
     "image": "/Images/i1.png",
     "duration": "20 mins",
-    "level": "Intermediate",
     "calories": 250,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p1.jpg",
+    "IngredientsImage":"/Rimages/p1.1.jpg",
+    "RecipeName":"Watercress and pork sandwich",
+    "RecipeDescription":"This sandwich is an energizing combination of slow-cooked pork and bitter watercress. Two slices of bread are layered and baked together to create a soft interior and a crispy exterior, creating a contrasting texture.",
+    "Ingredients": [
+      { "name": "Square bread (8 slices)", "amount": "4 sheets" },
+      { "name": "watercress", "amount": "1 bunch" },
+      { "name": "Red onion (small)", "amount": "1/4 piece" },
+      { "name": "Pork loin slices", "amount": "150g" },
+      { "name": "powdered cheese", "amount": "1 tablespoon" },
+      { "name": "flour", "amount": "2 tablespoons" },
+      { "name": "garlic", "amount": "1 piece" },
+      { "name": "mayonnaise", "amount": "1 tablespoon" },
+      { "name": "balsamic vinegar", "amount": "1/2 teaspoon" },
+      { "name": "lemon juice", "amount": "1/4 teaspoon" },
+      { "name": "salt", "amount": "Appropriate amount" },
+      { "name": "Black pepper", "amount": "Appropriate amount" },
+      { "name": "salad oil", "amount": "Appropriate amount" },
+      { "name": "butter", "amount": "10g" }
+    ],
+    "Cooking": [
+      "Remove the tough parts of the watercress and slice the red onion and garlic separately.",
+      "Mix together mayonnaise, balsamic vinegar, and lemon juice.",
+      "Mix the powdered cheese and flour together and sprinkle on the salt and peppered pork loin slices.",
+      "Place two slices of bread together in the toaster and toast until golden brown on the outside (toast mode: 2.5 to 3.5 minutes).",
+      "While the meat is toasting, cook the pork loin. Add salad oil and garlic to a frying pan and fry over low heat until the garlic is fragrant. Turn the heat to medium and add the pork loin, browning it on both sides while being careful not to burn the garlic.",
+      "Spread butter on the inside of each toast, layer the pork loin, onion, and watercress on top, then pour over the filling (2) and make a sandwich."
+    ]
   },
   {
     "id": 2,
     "name": "Crispy bacon and egg toast",
     "image": "/Images/i2.png",
     "duration": "10 mins",
-    "level": "Advanced",
     "calories": 280,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p2.jpg",
+    "IngredientsImage":"/Rimages/p2.2.jpg",
+    "RecipeName":"Crispy bacon and egg toast",
+    "RecipeDescription": "In a frying pan, cook the bacon until the edges are slightly browned. Cooking it uncovered over low heat will keep the yolk from becoming cloudy for the best results. Enjoy it hot with a soft-boiled egg and toasted bread.",
+    "Ingredients": [
+      { "name": "Square bread (5 slices)", "amount": "2 sheets" },
+      { "name": "bacon", "amount": "50g" },
+      { "name": "egg", "amount": "2 pieces" },
+      { "name": "salad oil", "amount": "Appropriate amount" },
+      { "name": "salt", "amount": "Appropriate amount" },
+      { "name": "Black pepper", "amount": "Appropriate amount" },
+      { "name": "butter", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Add salad oil to a frying pan and cook the bacon over medium heat for 30 seconds on each side.",
+      "Drop the eggs into 1, add 1 tablespoon of water and cook over low heat for 5 minutes.",
+      "While the bacon and eggs are cooking, toast the bread until golden brown (toast mode: 2.5 to 3.5 minutes).",
+      "Spread butter on the toast in step 3 and top with the bacon and egg mixture sprinkled with salt and pepper."
+    ]
   },
   {
     "id": 3,
     "name": "Very Berry Toast",
     "image": "/Images/i3.png",
     "duration": "20 mins",
-    "level": "Intermediate",
     "calories": 260,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p3.jpg",
+    "IngredientsImage":"/Rimages/p3.3.jpg",
+    "RecipeName":"Very Berry Toast",
+    "RecipeDescription": "This dish features slightly sweet Danish bread and refreshing cream with a hint of sourness. If berries are not available, try using seasonal fruits.",
+    "Ingredients": [
+      { "name": "Danish bread (4 slices)", "amount": "2 sheets" },
+      { "name": "fresh cream", "amount": "50cc" },
+      { "name": "sugar", "amount": "1 1/2 tablespoons" },
+      { "name": "sour cream", "amount": "35g" },
+      { "name": "Kirsch (or rum)", "amount": "1/2 teaspoon" },
+      { "name": "Strawberries, blueberries, etc.", "amount": "Appropriate amount" },
+      { "name": "mint", "amount": "Appropriate amount" },
+      { "name": "powdered sugar", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Add sugar to the cream and whip until stiff.",
+      "In another bowl, combine sour cream and kirsch.",
+      "Mix 2 with 1 in 3 batches.",
+      "Cut strawberries etc.",
+      "Lightly toast the Danish bread (Toast mode: 2.5 minutes).",
+      "Place cream and strawberries on the toasted bread, sprinkle with powdered sugar, and garnish with mint."
+    ]
   },
   {
     "id": 4,
     "name": "Apple and cream chesse toast",
     "image": "/Images/i4.png",
     "duration": "20 mins",
-    "level": "Intermediate",
     "calories": 290,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p4.jpg",
+    "IngredientsImage":"/Rimages/p4.4.jpg",
+    "RecipeName":"Apple and cream cheese toast",
+    "RecipeDescription": "Creamy cheese and sweet and sour apple fruit toast. Enjoy the crispy texture of the apples, which are cooked just right, alongside the crunch of the toast.",
+    "Ingredients": [
+      { "name": "Square bread (8 slices)", "amount": "2 sheets" },
+      { "name": "cream cheese", "amount": "2 tablespoons" },
+      { "name": "apple", "amount": "1/4 piece" },
+      { "name": "sugar", "amount": "1 tablespoon" },
+      { "name": "lemon juice", "amount": "1 teaspoon" },
+      { "name": "cinnamon", "amount": "Appropriate amount" },
+      { "name": "butter", "amount": "Appropriate amount" },
+      { "name": "walnuts", "amount": "Appropriate amount" },
+      { "name": "maple syrup", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Thinly slice the apples and mix with the sugar, lemon juice and cinnamon for 5 minutes.",
+      "Spread cream cheese on the bread and arrange the apples from step 1 on top.",
+      "Sprinkle butter and chopped walnuts on top of 2 and toast. (Cheese toast mode: 4-6 minutes)",
+      "Pour maple syrup over the cooked 3."
+    ]
   },
   {
     "id": 5,
     "name": "Croissant sandwich",
     "image": "/Images/i5.png",
     "duration": "30 mins",
-    "level": "Advanced",
     "calories": 240,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p5.jpg",
+    "IngredientsImage":"/Rimages/p5.5.jpg",
+    "RecipeName":"Croissant sandwich",
+    "RecipeDescription": "A croissant sandwich filled with our special egg salad, seasoned with the refreshing and sharp aroma of dill. Refreshing with sour cream and mayonnaise. The combination with a crispy croissant warmed in BALMUDA The Toaster is irresistible.",
+    "Ingredients": [
+      { "name": "croissant", "amount": "2 pieces" },
+      { "name": "boiled eggs", "amount": "2 pieces" },
+      { "name": "Dill", "amount": "1 branch" },
+      { "name": "mayonnaise", "amount": "1 tablespoon" },
+      { "name": "sour cream", "amount": "1 tablespoon" },
+      { "name": "salt", "amount": "Appropriate amount" },
+      { "name": "pepper", "amount": "Appropriate amount" },
+      { "name": "Green leaves, salad greens, etc.", "amount": "2 sheets" }
+    ],
+    "Cooking": [
+      "Roughly break the boiled eggs into 8 equal parts using a spoon.",
+      "Chop the dill and mix with mayonnaise and sour cream, then mix roughly with the boiled eggs from step 1. Season with salt and pepper.",
+      "Heat the croissant with a slit cut at a 45° angle (Croissant mode: 3-4 minutes).",
+      "Once the croissants are cooked, sandwich them with the green leaves and 2."
+    ]
   },
   {
     "id": 6,
     "name": "Fruit tomato toast",
     "image": "/Images/i6.png",
     "duration": "10 mins",
-    "level": "Beginner",
     "calories": 220,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p6.jpg",
+    "IngredientsImage":"/Rimages/p6.6.jpg",
+    "RecipeName":"Fruit tomato toast",
+    "RecipeDescription": "A breakfast menu for hot summer days when you have no appetite. It has been a staple in my home ever since a food writer friend taught me. Simple menus are particular about the ingredients. It is also one of the pleasures to try out various tomatoes.",
+    "Ingredients": [
+      { "name": "Bread", "amount": "2 slices" },
+      { "name": "Fruit tomatoes", "amount": "Appropriate amount" },
+      { "name": "Extra virgin olive oil", "amount": "Appropriate amount" },
+      { "name": "Salt (Lemon salt recommended)", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Toast the bread in the toaster until golden brown (Toast mode: 2.5 to 3.5 minutes).",
+      "Slice the well-chilled tomatoes.",
+      "Place the tomatoes on the toast, drizzle with olive oil, and sprinkle with salt. (If not using lemon salt, you may sprinkle lemon juice)."
+    ]
   },
   {
     "id": 7,
-    "name": "Asparagus and egg parmesan toast",
+    "name": "Asparagus and egg toast",
     "image": "/Images/i7.png",
     "duration": "15 mins",
-    "level": "Beginner",
     "calories": 230,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p7.jpg",
+    "IngredientsImage":"/Rimages/p7.7.jpg",
+    "RecipeName":"Asparagus and egg toast",
+    "RecipeDescription": "Imagine this. Rare asparagus, a soft-boiled egg, and melted Parmesan cheese on top of bread that is crunchy on the outside and fluffy on the inside! Break the yolk and cut into four quarters crosswise. Please eat while entangling the spilled yolk. In the afternoon on a holiday, with your favorite white wine. Once you eat one slice, you will want a second one, so we recommend preparing ingredients for two.",
+    "Ingredients": [
+      { "name": "Bread", "amount": "2 slices" },
+      { "name": "Asparagus", "amount": "Appropriate amount" },
+      { "name": "Egg", "amount": "2 pieces" },
+      { "name": "Butter", "amount": "Appropriate amount" },
+      { "name": "Parmesan cheese", "amount": "Appropriate amount" },
+      { "name": "Salt", "amount": "Appropriate amount" },
+      { "name": "Black pepper", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Cut off the hard parts of the asparagus and peel the skin thinly about 4-5 cm from the root. Cut into 5-6 cm lengths, then cut each in half vertically. Sprinkle lightly with salt.",
+      "Spread butter on the bread.",
+      "Place the asparagus on the bread like a bank and drop the egg in the center. Sprinkle the egg lightly with salt.",
+      "Sprinkle Parmesan cheese evenly over the top and put in the toaster (Cheese toast mode: 6-7 minutes).",
+      "Sprinkle with black pepper if desired."
+    ]
   },
   {
     "id": 8,
     "name": "Honey toast",
     "image": "/Images/i8.png",
     "duration": "5 mins",
-    "level": "Intermediate",
     "calories": 300,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p8.jpg",
+    "IngredientsImage":"/Rimages/p8.8.jpg",
+    "RecipeName":"Honey toast",
+    "RecipeDescription": "A super classic menu, but a charming menu that you can't help but eat one slice. Even people who can't get their engine started in the morning will wake up when they see this visual. Don't worry about high calories, just bite into it. You won't be able to stop eating.",
+    "Ingredients": [
+      { "name": "Mountain-shaped bread", "amount": "1 slice" },
+      { "name": "Butter", "amount": "Appropriate amount" },
+      { "name": "Honey", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Toast the mountain-shaped bread (Toast mode 2.5-3 minutes).",
+      "Top with butter and pour honey over it."
+    ]
   },
   {
     "id": 9,
     "name": "Lasagna toast",
     "image": "/Images/i9.png",
     "duration": "15 mins",
-    "level": "Intermediate",
     "calories": 310,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p9.jpg",
+    "IngredientsImage":"/Rimages/p9.9.jpg",
+    "RecipeName":"Lasagna toast",
+    "RecipeDescription": "A hearty feast toast where ordinary bread becomes the main dish. Serve with salad for lunch or a light dinner. I think it's convenient to make a little extra meat sauce and white sauce and freeze them when you have some time.",
+    "Ingredients": [
+      { "name": "Bread", "amount": "2 slices" },
+      { "name": "White sauce (Béchamel)", "amount": "Appropriate amount" },
+      { "name": "Meat sauce", "amount": "Appropriate amount" },
+      { "name": "Gruyère cheese", "amount": "Appropriate amount" },
+      { "name": "Grana Padano", "amount": "Appropriate amount" },
+      { "name": "Parsley", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Spread 1/4 of the white sauce on the bread and top with 1/4 of the meat sauce.",
+      "Top with shaved Gruyère cheese and stack another slice of bread.",
+      "Put the same amount of béchamel sauce and meat sauce on the stacked bread, and sprinkle with powdered Grana Padano.",
+      "Toast (Cheese toast mode for 7-8 minutes).",
+      "Sprinkle parsley on top to finish."
+    ]
   },
   {
     "id": 10,
     "name": "Adult Cheese toast",
     "image": "/Images/i10.png",
     "duration": "10 mins",
-    "level": "Beginner",
     "calories": 260,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p10.jpg",
+    "IngredientsImage":"/Rimages/p10.10.jpg",
+    "RecipeName":"Adult Cheese toast",
+    "RecipeDescription": "Melting shredded cheese alone is delicious enough, but scattering small chunks of Parmigiano Reggiano boosts the aroma significantly. Using crushed black pepper makes it an 'adult cheese toast' with a good scent. You may also enjoy it with wine by drizzling a little honey.",
+    "Ingredients": [
+      { "name": "Bread", "amount": "1 slice" },
+      { "name": "Shredded cheese", "amount": "Appropriate amount" },
+      { "name": "Parmigiano Reggiano", "amount": "Appropriate amount" },
+      { "name": "Black pepper", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Put shredded cheese on the bread and scatter Parmigiano Reggiano torn into 5mm squares here and there.",
+      "Toast (Cheese toast mode 4-5 minutes).",
+      "Sprinkle with black pepper if desired."
+    ]
   },
   {
     "id": 11,
     "name": "Toraan toast",
     "image": "/Images/i11.png",
     "duration": "8 mins",
-    "level": "Beginner",
     "calories": 280,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p11.jpg",
+    "IngredientsImage":"/Rimages/p11.11.jpg",
+    "RecipeName":"Toraan toast",
+    "RecipeDescription": "I used homemade red bean paste (anko) learned from Toraya. TORAYA CAFE also has commercially available an paste. Jam is optional. Strawberry jam is recommended.",
+    "Ingredients": [
+      { "name": "Bread", "amount": "2 slices" },
+      { "name": "Butter", "amount": "Appropriate amount" },
+      { "name": "Anko (Red bean paste)", "amount": "Appropriate amount" },
+      { "name": "Strawberry jam (optional)", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Toast the bread (Toast mode 2.5-3.5 minutes).",
+      "Spread butter on the toast.",
+      "Spread anko on top, and add strawberry jam if desired."
+    ]
   },
   {
     "id": 12,
-    "name": "Black pepper and corned beef sandwich with lemon",
+    "name": "Corned beef sandwich",
     "image": "/Images/i12.png",
     "duration": "15 mins",
-    "level": "Intermediate",
     "calories": 270,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p12.jpg",
+    "IngredientsImage":"/Rimages/p12.12.jpg",
+    "RecipeName":"Corned beef sandwich",
+    "RecipeDescription": "A menu conceived to eat corned beef refreshingly. Powerfully seasoned with black pepper, and with the freshness of new onions and parsley, and the acidity of lemon, you won't feel the smell of corned beef. It is a menu that you can eat crisply while leaving the punch of corned beef.",
+    "Ingredients": [
+      { "name": "Mountain-shaped bread", "amount": "2 slices" },
+      { "name": "Corned beef", "amount": "Appropriate amount" },
+      { "name": "Mayonnaise", "amount": "Appropriate amount" },
+      { "name": "Black pepper", "amount": "Appropriate amount" },
+      { "name": "Salt", "amount": "Appropriate amount" },
+      { "name": "Onion", "amount": "Appropriate amount" },
+      { "name": "Parsley", "amount": "Appropriate amount" },
+      { "name": "Butter", "amount": "Appropriate amount" },
+      { "name": "Mustard", "amount": "Appropriate amount" },
+      { "name": "Lemon", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Mix corned beef while breaking it up with mayonnaise, black pepper, and salt.",
+      "Finely chop the onion and parsley.",
+      "Toast the mountain-shaped bread (Toast mode for 3 minutes).",
+      "Once toasted, spread butter and mustard, and top with the corned beef mixture.",
+      "Top with onion and parsley, and garnish with lemon."
+    ]
   },
   {
     "id": 13,
     "name": "Marinated paprika sandwich",
     "image": "/Images/i13.png",
     "duration": "30 mins",
-    "level": "Intermediate",
     "calories": 260,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p13.jpg",
+    "IngredientsImage":"/Rimages/p13.13.jpg",
+    "RecipeName":"Marinated paprika sandwich",
+    "RecipeDescription": "Grill paprika slowly to bring out its sweetness. Simple, but you can taste the deliciousness of the ingredients. An open sandwich with a satisfying response that goes well with crispy hard bread and olive oil. Deliciousness that can be done with one Balmuda. It is a classic of my home.",
+    "Ingredients": [
+      { "name": "Paprika (Red, Yellow)", "amount": "Appropriate amount" },
+      { "name": "Bread (Hard type)", "amount": "Appropriate amount" },
+      { "name": "Capers", "amount": "Appropriate amount" },
+      { "name": "Olive oil", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Place paprika on a heat-resistant dish or aluminum foil, and bake at Classic mode 230°C for 20 minutes, turning it over halfway.",
+      "Let cool, then peel the skin. Do not remove the juice from the paprika as it is important for the flavor. Roughly chop capers and sprinkle over, drizzle with olive oil, and let the flavors blend.",
+      "Toast the bread until crispy and brush the surface with an appropriate amount of olive oil (Toast mode 2.5-3 minutes).",
+      "Place the paprika on the bread."
+    ]
   },
   {
     "id": 14,
-    "name": "Rey toast with dill cream cheese",
+    "name": "Rey toast with cream cheese",
     "image": "/Images/i14.png",
     "duration": "5 mins",
-    "level": "Intermediate",
     "calories": 250,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p14.jpg",
+    "IngredientsImage":"/Rimages/p14.14.jpg",
+    "RecipeName":"Rey toast with cream cheese",
+    "RecipeDescription": "Rye bread, cream cheese, lime: a trinity of acidity. Toast with fresh dill flavor. Pairing with specialty coffee with bright acidity for a complex taste experience. You can also try changing spices, herbs, and citrus to match the coffee.",
+    "Ingredients": [
+      { "name": "Rye bread", "amount": "Appropriate amount" },
+      { "name": "Cream cheese", "amount": "Appropriate amount" },
+      { "name": "Dill", "amount": "Appropriate amount" },
+      { "name": "Lime juice", "amount": "Appropriate amount" },
+      { "name": "Pink pepper", "amount": "Appropriate amount" },
+      { "name": "Extra virgin olive oil", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Combine cream cheese, dill, and lime juice.",
+      "Toast the rye bread (Toast mode for 3 minutes to 3 minutes 30 seconds).",
+      "Spread the mixture on the bread.",
+      "Sprinkle with pink pepper and drizzle with extra virgin olive oil."
+    ]
   },
   {
     "id": 15,
     "name": "Camembert fruit toast",
     "image": "/Images/i15.png",
     "duration": "12 mins",
-    "level": "Beginner",
     "calories": 270,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p15.jpg",
+    "IngredientsImage":"/Rimages/p15.15.jpg",
+    "RecipeName":"Camembert fruit toast",
+    "RecipeDescription": "Melting Camembert goes perfectly with the freshness of fruit. It is also delicious if you add cashew nuts etc. and bake it, so please enjoy arranging with your favorite fruits and nuts.",
+    "Ingredients": [
+      { "name": "Baguette", "amount": "Appropriate amount" },
+      { "name": "Camembert cheese", "amount": "Appropriate amount" },
+      { "name": "Orange", "amount": "Appropriate amount" },
+      { "name": "Blueberry", "amount": "Appropriate amount" },
+      { "name": "Butter", "amount": "Appropriate amount" },
+      { "name": "Maple syrup", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Slice the orange in half and cut Camembert into bite-sized pieces.",
+      "Slice the baguette in half thickness and spread butter.",
+      "Top with orange, Camembert, and blueberries and toast (Cheese toast mode for 6 minutes).",
+      "Drizzle with maple syrup once toasted."
+    ]
   },
   {
     "id": 16,
     "name": "Honey-glazed kinako rice cake",
     "image": "/Images/i16.png",
     "duration": "10 mins",
-    "level": "Advanced",
     "calories": 320,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p16.jpg",
+    "IngredientsImage":"/Rimages/p16.16.jpg",
+    "RecipeName":"Honey-glazed kinako rice cake",
+    "RecipeDescription": "Salt is the point of deliciousness. A little saltiness brings out the sweetness. Drizzling with honey gives it a rich taste. Black honey makes it rich, and white honey makes it look refreshing and beautiful.",
+    "Ingredients": [
+      { "name": "Rice cake (Mochi)", "amount": "Appropriate amount" },
+      { "name": "Kinako (Roasted soybean flour)", "amount": "Appropriate amount" },
+      { "name": "Sugar", "amount": "Appropriate amount" },
+      { "name": "Salt", "amount": "Appropriate amount" },
+      { "name": "Honey (Black or White)", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Mix kinako, sugar, and salt.",
+      "Place the mochi on a heat-resistant dish or aluminum foil and bake at Classic mode 230°C for 5-7 minutes. Boil water in a pot while baking.",
+      "Soak the baked mochi in the hot water.",
+      "Remove the mochi from the hot water, coat thoroughly with the kinako mixture, and serve on a plate.",
+      "Sprinkle with a pinch of sugar or drizzle with honey if desired."
+    ]
   },
   {
     "id": 17,
-    "name": "Open hamburger at a western restaurant",
+    "name": "Open hamburger",
     "image": "/Images/i17.png",
     "duration": "40 mins",
-    "level": "Beginner",
     "calories": 290,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p17.jpg",
+    "IngredientsImage":"/Rimages/p17.17 .jpg",
+    "RecipeName":"Open hamburger",
+    "RecipeDescription": "This dish was created in response to the request for 'The Western-style restaurant hamburger' + 'easy-to-make sauce'. The trick is not to knead the hamburger by hand and to Grill it thin to a thickness of 1 cm. Grilling with a thick frying pan makes a difference in the finish. Adding a little orange zest to the sauce gives it a refreshing scent.",
+    "Ingredients": [
+      { "name": "Bread", "amount": "2 slices" },
+      { "name": "Ground meat (Beef and Pork mix)", "amount": "Appropriate amount" },
+      { "name": "Onion", "amount": "Appropriate amount" },
+      { "name": "Bread crumbs", "amount": "Appropriate amount" },
+      { "name": "Milk", "amount": "Appropriate amount" },
+      { "name": "Egg", "amount": "Appropriate amount" },
+      { "name": "Salt, Pepper, Nutmeg", "amount": "Appropriate amount" },
+      { "name": "Worcestershire sauce", "amount": "Appropriate amount" },
+      { "name": "Coarse mustard", "amount": "Appropriate amount" },
+      { "name": "Orange zest", "amount": "Appropriate amount" },
+      { "name": "Egg (for fried egg)", "amount": "2 pieces" }
+    ],
+    "Cooking": [
+      "Finely chop the onion and sauté in a frying pan until light brown. Let cool completely.",
+      "Mix ground meat with the onion and other ingredients (A), keeping the bowl in ice water. Do not knead by hand; use a spatula to press and mix.",
+      "Shape into thin ovals (1cm thick) on a cutting board. Make grid-like cuts on the surface to prevent shrinking and season with salt and pepper.",
+      "Grill in a hot thick frying pan, grid side down first. Flip and cook until juices run clear. Let rest.",
+      "Warm the sauce ingredients in a small pot.",
+      "Fry the eggs sunny-side up.",
+      "Toast the bread (Toast mode: 2.5-3 minutes).",
+      "Assemble by placing the hamburger on the bread, pouring sauce, and topping with the fried egg."
+    ]
   },
   {
     "id": 18,
     "name": "Hot dogs at the stadium",
     "image": "/Images/i18.png",
     "duration": "20 mins",
-    "level": "Intermediate",
     "calories": 240,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p18.jpg",
+    "IngredientsImage":"/Rimages/p18.18.jpg",
+    "RecipeName":"Stadium Hot Dog",
+    "RecipeDescription": "A dish that reproduces the hot dog eaten at the stadium at home. A simple recipe where you sandwich a sausage in a bun and warm it for 6 minutes in French bread mode. The acidity of chopped onions and pickles, the sausage, and the exquisite saltiness of ketchup and mustard combine to create a relieving deliciousness. Please spend a hot summer day with cola or beer.",
+    "Ingredients": [
+      { "name": "Hot dog bun or Bread", "amount": "2 pieces" },
+      { "name": "Sausage", "amount": "2 pieces" },
+      { "name": "Onion", "amount": "Appropriate amount" },
+      { "name": "Pickles", "amount": "Appropriate amount" },
+      { "name": "Butter", "amount": "Appropriate amount" },
+      { "name": "Ketchup", "amount": "Appropriate amount" },
+      { "name": "Mustard", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Finely chop the onion and soak in water for 15 minutes, then drain.",
+      "Cut a slit in the bread and spread butter.",
+      "Sandwich the sausage and bake in French bread mode for 6 minutes.",
+      "Top with onion and pickles, and drizzle with ketchup and mustard."
+    ]
   },
   {
     "id": 19,
-    "name": "Green pea and squid spring toast",
+    "name": "Green pea n squid spring toast",
     "image": "/Images/i19.png",
     "duration": "15 mins",
-    "level": "Intermediate",
     "calories": 350,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p19.jpg",
+    "IngredientsImage":"/Rimages/p19.19.jpg",
+    "RecipeName":"Green pea n squid spring toast",
+    "RecipeDescription": "A recipe to enjoy the season taught by Mr. Sugikubo of the popular bakery 365 Days. The boldly placed squid and green peas are surprisingly compatible. It is a gem where you can feel spring with the faintly scented lime. Since the surface is grilled strongly in 'Salamander mode', the ingredients are finished while keeping their freshness.",
+    "Ingredients": [
+      { "name": "Squid", "amount": "Appropriate amount" },
+      { "name": "Green peas", "amount": "Appropriate amount" },
+      { "name": "Bread", "amount": "2 slices" },
+      { "name": "Crème épaisse (or sour cream)", "amount": "Appropriate amount" },
+      { "name": "Bacon", "amount": "Appropriate amount" },
+      { "name": "Parmesan cheese", "amount": "Appropriate amount" },
+      { "name": "Olive oil", "amount": "Appropriate amount" },
+      { "name": "Lime", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Dice the squid and beat until sticky. Mix with salt and pepper. Divide into 6 portions.",
+      "Grease a tray with olive oil, roll the squid into balls, and refrigerate.",
+      "Spread crème épaisse on bread, sprinkle with salt and pepper.",
+      "Arrange bacon, green peas, and parmesan cheese on top.",
+      "Lightly sear the surface of the squid balls with a burner.",
+      "Toast the bread (Salamander mode: 3 minutes).",
+      "Place 3 squid balls on each slice, grate lime zest over them, and drizzle with olive oil."
+    ]
   },
   {
     "id": 20,
     "name": "Sardines and fruit toast",
     "image": "/Images/i20.png",
     "duration": "15 mins",
-    "level": "Intermediate",
     "calories": 220,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p20.jpg",
+    "IngredientsImage":"/Rimages/p20.20.jpg",
+    "RecipeName":"Sardines and fruit toast",
+    "RecipeDescription": "Gorgeous toast is not only visually enjoyable but also exceptional in taste. Along with the refreshing scent of dill, the acidity of strawberries and the umami of oil sardines spread throughout your mouth. It is also recommended to enjoy it with white wine on a holiday afternoon.",
+    "Ingredients": [
+      { "name": "Bread", "amount": "2 slices" },
+      { "name": "Jam (Citrus etc.)", "amount": "Appropriate amount" },
+      { "name": "Oil sardines", "amount": "6 pieces" },
+      { "name": "Strawberry", "amount": "Appropriate amount" },
+      { "name": "Dried tomato", "amount": "Appropriate amount" },
+      { "name": "Parmesan cheese", "amount": "Appropriate amount" },
+      { "name": "Purple cabbage coleslaw (Cabbage, Salt, Sugar, Black pepper, Olive oil, Lemon juice)", "amount": "Appropriate amount" },
+      { "name": "Dill, Pink pepper, Raspberry chips", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Spread jam on the bread.",
+      "Top with purple cabbage coleslaw and oil sardines.",
+      "Toss halved strawberries with French dressing.",
+      "Place strawberries and dried tomatoes on the bread, and scatter Parmesan cheese.",
+      "Toast (Cheese toast mode: 4 minutes).",
+      "Finish with pepper, olive oil, dill, berry chips, and pink pepper."
+    ]
   },
   {
     "id": 21,
-    "name": "Zucchini and anchovy lemon toast",
+    "name": "Zucchini n anchovy lemon toast",
     "image": "/Images/i21.png",
     "duration": "12 mins",
-    "level": "Beginner",
     "calories": 200,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p21.jpg",
+    "IngredientsImage":"/Rimages/p21.21.jpg",
+    "RecipeName":"Zucchini n anchovy lemon toast",
+    "RecipeDescription": "Once you put the ingredients on, just leave the perfect heating to the BALMUDA toaster. Sprinkle plenty of cheese on the baked goods and squeeze the lemon tightly to create a refreshing summer toast menu. You can also add garlic and thyme with anchovies, sprinkle chili powder on the finish, or scatter basil leaves.",
+    "Ingredients": [
+      { "name": "Bread (British style recommended)", "amount": "2 slices" },
+      { "name": "Zucchini", "amount": "Appropriate amount" },
+      { "name": "Anchovy", "amount": "Appropriate amount" },
+      { "name": "Olive oil", "amount": "Appropriate amount" },
+      { "name": "Lemon", "amount": "Appropriate amount" },
+      { "name": "Cheese (Mimolette or similar)", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Slice zucchini into 8 pieces.",
+      "Chop anchovies and mix with olive oil.",
+      "Arrange zucchini on bread, brush with anchovy oil, and scatter anchovies.",
+      "Grate lemon peel over it and toast (Cheese toast mode: 4 minutes).",
+      "Sprinkle plenty of cheese on top 4, and squeeze lemon just before eating if you like."
+    ]
   },
   {
     "id": 22,
     "name": "Torayan toast",
     "image": "/Images/i22.png",
     "duration": "8 mins",
-    "level": "Beginner",
     "calories": 230,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p22.jpg",
+    "IngredientsImage":"/Rimages/p22.22.jpg",
+    "RecipeName":"Torayan toast",
+    "RecipeDescription": "If you use Toraya's small yokan 'Yoru no Ume', one is just enough for one slice of bread. Jam is optional. Apricot jam is recommended.",
+    "Ingredients": [
+      { "name": "Bread", "amount": "2 slices" },
+      { "name": "Yokan (Toraya 'Yoru no Ume')", "amount": "2 pieces" },
+      { "name": "Butter", "amount": "Appropriate amount" },
+      { "name": "Apricot jam (optional)", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Toast the bread (Toast mode 2.5-3.5 minutes).",
+      "Thinly slice the yokan.",
+      "Spread butter on the toasted bread.",
+      "Arrange the sliced yokan on top.",
+      "Add jam in the gaps and around the yokan if desired."
+    ]
   },
   {
     "id": 23,
     "name": "French toast",
     "image": "/Images/i23.png",
     "duration": "35 mins",
-    "level": "Intermediate",
     "calories": 450,
-    "type": "Non-veg"
+    "type": "Non-veg",
+    "RecipeImage": "/Rimages/p23.jpg",
+    "IngredientsImage":"/Rimages/p23.23.jpg",
+    "RecipeName":"French toast",
+    "RecipeDescription": "French toast unique to Salamander mode with attractive delicious browning. The surface is fragrant and crispy, and the inside is fluffy and melting with egg liquid. Since condensed milk is used instead of sugar, a gentle and mellow sweetness spreads. Thick sliced bread is recommended.",
+    "Ingredients": [
+      { "name": "Bread (Thick sliced)", "amount": "Appropriate amount" },
+      { "name": "Egg", "amount": "Appropriate amount" },
+      { "name": "Condensed milk", "amount": "Appropriate amount" },
+      { "name": "Milk", "amount": "Appropriate amount" },
+      { "name": "Honey", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Mix egg, condensed milk, and milk in a bowl.",
+      "Soak the bread in the mixture for 2-3 hours, turning occasionally.",
+      "Bake in a heat-resistant container (Classic mode 200°C 8-10 minutes). Then switch to Salamander mode for 1-2 minutes to brown the surface.",
+      "Drizzle with honey while hot."
+    ]
   },
   {
     "id": 24,
     "name": "Happy roll bread",
     "image": "/Images/i24.png",
     "duration": "5 mins",
-    "level": "Beginner",
     "calories": 280,
-    "type": "Veg"
+    "type": "Veg",
+    "RecipeImage": "/Rimages/p24.jpg",
+    "IngredientsImage":"/Rimages/p24.24.jpg",
+    "RecipeName":"Happy roll bread",
+    "RecipeDescription": "BALMUDA The Toaster is actually good at reheating bread. Especially recommended is the rebaking of rolls using the French bread mode. The outside is not burnt and the inside is fluffy and warm. It is a happy finish that becomes addictive once you taste it. Please eat with plenty of butter and jam.",
+    "Ingredients": [
+      { "name": "Roll bread", "amount": "2 pieces" },
+      { "name": "Butter", "amount": "Appropriate amount" },
+      { "name": "Jam", "amount": "Appropriate amount" }
+    ],
+    "Cooking": [
+      "Put the roll bread in the toaster and rebake to make it fluffy. (French bread mode: 3 minutes)",
+      "Serve with butter, jam, or salad if desired."
+    ]
   }
 ]

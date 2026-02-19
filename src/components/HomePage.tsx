@@ -1,11 +1,15 @@
-
+import { useEffect } from 'react'
 import Navbar from './navbar/Navbar'
 import Footer from './footer/Footer'
 import Items from './Items'
 
 const HomePage = () => {
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
+
     return (
-        <div className="min-h-screen bg-shiro flex flex-col font-sans">
+        <div className="min-h-screen bg-white flex flex-col font-sans">
             <Navbar />
 
             {/* Main Content Area (No Sidebar) */}
